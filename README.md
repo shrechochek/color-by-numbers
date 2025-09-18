@@ -5,4 +5,3 @@
 <h3> downloading libraries <h3>
 ```terminal
 pip install opencv-python numpy pillow
-```
