@@ -3,4 +3,9 @@
 <h2> how to setup? <h2>
 
 <h3> downloading libraries <h3>
-`pip install opencv-python numpy pillow`
+  
+```terminal
+pip install opencv-python numpy pillow
+```
+
+<h3>after dowloading libraries you must set image path in code</h3>
