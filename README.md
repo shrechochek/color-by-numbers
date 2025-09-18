@@ -1,4 +1,4 @@
-<h1>make a color by numbers from any pictur! <h1>
+<h1>make a color by numbers from any picture! <h1>
 
 <h2> how to setup? <h2>
 
